@@ -181,6 +181,7 @@ BOARD_SEPOLICY_UNION += \
     tap2wake_dev.te \
     thermal-engine.te \
     ueventd.te \
+    vibratorhw_dev.te \
     vold.te
 
 # Vendor Init

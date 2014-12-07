@@ -1,0 +1,1 @@
+allow vibratorhw_dev sysfs:filesystem associate; 
